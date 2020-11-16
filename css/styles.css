@@ -37,6 +37,15 @@ h2 {
 	color:red;
 }
 
+.content-left{
+	color: white;
+	text-align: left;
+	margin-left:15%;
+	margin-right:15%;
+	font-family: arial;
+	font-size: large;
+}
+
 .menu a:hover {
 	color: blue;
 }
