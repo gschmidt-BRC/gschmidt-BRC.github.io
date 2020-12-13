@@ -80,3 +80,16 @@ h2 {
 	text-align: center;
 	margin: 0px;
 }
+
+a span.release_date {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	text-decoration-style: none;
+	font-size: 4rem;
+	color: yellow;
+	/* padding-left: 1rem;
+	padding-bottom: 3rem; */
+	margin-left:3rem;
+	margin-block: 3rem;
+
+}
